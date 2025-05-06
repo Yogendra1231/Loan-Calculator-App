@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Errorpage = () => {
+const ErrorPage = () => {
   return (
-    <div>Errorpage</div>
+    <div>ErrorPage</div>
   )
 }
 
-export default Errorpage
+export default ErrorPage
